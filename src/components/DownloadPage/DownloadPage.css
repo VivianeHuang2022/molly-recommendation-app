@@ -1,0 +1,55 @@
+/* DownloadPage.css */
+.download-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2rem;
+  }
+  
+  .preview-image {
+    max-width: 30vw;
+    max-height: auto;
+  }
+  
+  .buttons-container {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .btn {
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .generate-again {
+    background-color: #212529;
+    color: #fff;
+  }
+  
+  .change-template {
+    background-color: #212529;
+    color: #fff;
+  }
+  
+  .make-payment {
+    background-color: #212529;
+    color: #fff;
+  }
+  
+  .download-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    background-color: #212529;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .download-icon {
+    width: 1rem;
+    height: 1rem;
+  }
