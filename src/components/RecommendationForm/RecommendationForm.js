@@ -69,8 +69,8 @@ const placeholders = {
     recommenderAddress: 'Physical address of the recommender',
     recommenderZipCode: 'Zip code for the address',
     recommenderIntro: 'A brief introduction',
-    recommendRelationship: 'How do you know them?',
-    recommendActivity: 'Specific activities or projects',
+    recommendRelationship: 'Example: Mentor/Professor/Supervisor/Manager',
+    recommendActivity: "Describe a key activity or achievement of the recommendee using the STAR principle. Start by setting the Scene (Situation) - give context about what was happening and why the activity was undertaken. Then, define the Task - what was the goal or problem to be addressed? Next, describe the Action taken by the recommendee - what specific steps did they take to address the task or challenge? Finally, detail the Result - what was the outcome of their actions, and were there any notable achievements or recognitions? Include quantitative results or specific accomplishments to illustrate the impact of their actions. Example: 'Situation: During an internship at Tech Innovations, the recommendee noticed a recurring issue with our customer service workflow. Task: They were tasked with devising a solution to enhance efficiency and customer satisfaction. Action: The recommendee analyzed customer feedback, identified key bottlenecks, and implemented a new ticketing system that prioritized urgent queries. Result: This led to a 30% improvement in response times and a 20% increase in customer satisfaction scores within three months.'"
 };
 
 const RecommendationForm = () => {
